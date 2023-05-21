@@ -134,7 +134,7 @@ def state_watcher_thread(rpc, time_c):
                        large_text="생성중",
                        small_text=f"{percent_show}%",
                        details=model_name + " 모델 사용중",
-                       state=f'생성중 {shared.state.job_count * batch_size} 초당 이미지',
+                       state=f'생성중 {shared.state.job_count * batch_size} 초당 이미지 수',
                        start=time_c)
 
         time.sleep(2)
