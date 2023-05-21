@@ -1,4 +1,4 @@
-Discord Rich Presence
+WebUI Discord Rich Presence In Korean
 =======
 Dynamic Discord rich presence (only) for [AUTOMATIC1111's WebUI](https://github.com/davehornik/stable-diffusion-webui).
 -----------
@@ -13,13 +13,7 @@ Dynamic Discord rich presence (only) for [AUTOMATIC1111's WebUI](https://github.
         - Time elapsed
 - Also changes status image based on activity
 
-## Future plans
-- [ ] Add options page for following:
-    - [ ] ON/OFF for Dynamic status
-    - [ ] ON/OFF for Percentage progress
-    - [ ] Custom buttons (maybe, we'll see)
-- Send us your ideas!
-
 ## Contributors
 - Idea & graphics and "PR" by [davehornik](https://github.com/davehornik/)
 - Coding mainly done by [Edesak](https://github.com/Edesak)
+- Translated to Korean by [LaeDev](https://github.com/LaeDev)
