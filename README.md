@@ -2,7 +2,6 @@ WebUI Discord Rich Presence In Korean
 =======
 Dynamic Discord rich presence (only) for [AUTOMATIC1111's WebUI](https://github.com/davehornik/stable-diffusion-webui).
 -----------
-![Logo](preview.png)
 
 ## Features
 - Current model you are using
